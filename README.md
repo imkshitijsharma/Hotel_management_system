@@ -26,5 +26,4 @@ Make sure to configure the SQL database connection details in the program.
 ## Contributing
 Contributions to the Hotel Management System project are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
